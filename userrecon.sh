@@ -1,4 +1,4 @@
-#!/bin/bash
+# git clone https://github.com/sadielilith14/userrecon.git
 # UserRecon v1.0
 # Author: @thelinuxchoice
 # https://github.com/thelinuxchoice/usercheck
