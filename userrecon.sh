@@ -1039,5 +1039,4 @@ partial
 }
 banner
 scanner
-                                                
 ./userrecon.sh
